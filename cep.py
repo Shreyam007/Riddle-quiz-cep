@@ -84,7 +84,7 @@ def save_highscore(level, score, name):
 class RiddleMaster:
     def __init__(self, root):
         self.root = root
-        self.root.title("🧠 Riddle Master Challenge Pro")
+        self.root.title("Riddle Master Challenge Pro")
         self.root.geometry("700x600")
         self.root.configure(bg="#1a1a2e")
         self.root.resizable(False, False)
@@ -102,7 +102,7 @@ class RiddleMaster:
         for widget in self.root.winfo_children():
             widget.destroy()
 
-        title = tk.Label(self.root, text="🧠 Riddle Master Challenge", font=("Helvetica", 28, "bold"), fg="#00ff99", bg="#1a1a2e")
+        title = tk.Label(self.root, text="Riddle Master Challenge", font=("Helvetica", 28, "bold"), fg="#00ff99", bg="#1a1a2e")
         title.pack(pady=40)
 
         subtitle = tk.Label(self.root, text="Choose Your Difficulty Level", font=("Arial", 16), fg="#aaa", bg="#1a1a2e")
