@@ -17,14 +17,6 @@ Perfect portfolio project for 2nd–3rd year CSE/IT students.
 - Beautiful dark modern UI
 - Fully playable with keyboard (Enter to submit)
 
-## 🎮 Screenshots
-
-![Game Start Screen](screenshots/start.png)
-![Gameplay](screenshots/gameplay.png)
-![Game Over & High Score](screenshots/gameover.png)
-
-*(Create a folder named `screenshots` and add your own PNG screenshots there for best results!)*
-
 ## 🚀 How to Run (Super Easy)
 
 ### Requirements
